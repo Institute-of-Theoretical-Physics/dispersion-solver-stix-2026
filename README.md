@@ -1,4 +1,4 @@
-# PW_STIX: Stix dispersion solver for cold plasma waves
+# PW_STIX: cold plasma dispersion solver using the Stix parameter method
 
 ------------------------------------------------------------------------
 [Authors]      Yasuhito Narita (1), Uwe Motschmann (1), and Tohru Hada (2)
@@ -56,8 +56,7 @@ Step 4. Run the code on the terminal by typing, e.g.,
 ------------------------------------------------------------------------
 If you use this code in your research, please cite it as:
 
-Yasuhito Narita, Uwe Motschmann, and Tohru Hada, 2026, PW_STIX, dispersion solver stix
-(version 1.0), Zenodo, DOI:10.5281/zenodo.19162143
+Yasuhito Narita, Uwe Motschmann, and Tohru Hada, 2026, PW_STIX: cold plasma dispersion solver using the Stix parameter method (version 1.0), Zenodo, DOI:10.5281/zenodo.19162143
 
 ------------------------------------------------------------------------
 6. LICENSE
